@@ -10,7 +10,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Name, Phone Number, Gender and Location. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Name, Phone Number, Gender, and Location. You can delete your account in Q-Taxi and all personally identifiable information including Name, Phone Number, Gender, and Location from Q-Taxi or message us.
+
+
 
 The app does use third-party services that may collect information used to identify you.
 
